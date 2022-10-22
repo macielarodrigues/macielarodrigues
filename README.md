@@ -11,8 +11,4 @@ Meu nome é Maciela Rodrigues, sou formada em Administração de empresas pela U
 ![](https://github-readme-stats.vercel.app/api?username=macielarodrigues&theme=buefy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=macielarodrigues&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=macielarodrigues&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-
+![1630550740529](https://user-images.githubusercontent.com/35813357/197355672-29d66191-1267-4f3b-b62f-665c671d1ab5.jpg)
