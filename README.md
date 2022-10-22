@@ -1,5 +1,5 @@
-# 💫 About Me:
 ![1630550740529](https://user-images.githubusercontent.com/35813357/197355672-29d66191-1267-4f3b-b62f-665c671d1ab5.jpg)
+# 💫 About Me:
 Meu nome é Maciela Rodrigues, sou formada em Administração de empresas pela UERJ. Atualmente curso Ciências Contábeis na UFF e faço Pós Graduação em Controladoria Empresarial pela Unilasalle.<br>Possuo conhecimentos intermediário do pacote office e básico nas linguagens de programação Python e R.<br>Faço estágio na Procuradoria geral do Estado do Rio de Janeiro, na gerência de Contabilidade e faço parte da Comunidade de estatística e Ciência de dados do Professor Thiago Marques.<br>Já fiz parte da comunidade R ladies e do projeto Estatística é com R!, entre 2017 e 2020.<br>
 
 
