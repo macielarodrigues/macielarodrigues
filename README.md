@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é Maciela Rodrigues, sou formada em Administraçãode empresas pela UERJ. Atualmente curso Ciências Contábeis na UFF e faço Pós Graduação em Controladoria Empresarial pela Unilasalle.<br>Possuo conhecimentos intermediário do pacote office e básico nas linguagens de programação Python e R.<br>Faço estágio na Procuradoria geral do Estado do Rio de Janeiro, na gerência de Contabilidade e faço parte da Comunidade de estatística e Ciência de dados do Professor Thiago Marques.<br>Já fiz parte da comunidade R ladies e do projeto Estatística é com R!, entre 2017 e 2020.<br>
+Meu nome é Maciela Rodrigues, sou formada em Administração de empresas pela UERJ. Atualmente curso Ciências Contábeis na UFF e faço Pós Graduação em Controladoria Empresarial pela Unilasalle.<br>Possuo conhecimentos intermediário do pacote office e básico nas linguagens de programação Python e R.<br>Faço estágio na Procuradoria geral do Estado do Rio de Janeiro, na gerência de Contabilidade e faço parte da Comunidade de estatística e Ciência de dados do Professor Thiago Marques.<br>Já fiz parte da comunidade R ladies e do projeto Estatística é com R!, entre 2017 e 2020.<br>
 
 
 ## 🌐 Socials:
